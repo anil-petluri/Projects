@@ -20,25 +20,6 @@ This project is designed to demonstrate SQL and Python skills and techniques typ
 4. **Exploratory Data Analysis (EDA)**: Perform basic exploratory data analysis to understand and gain insights from the dataset.
 5. **Business Analysis**: Use SQL, advanced analytics, and Excel to answer specific business questions and derive insights from the sales data.
 
-## How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/anil-petluri/retail-sales-analysis.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd retail-sales-analysis
-   ```
-3. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-5. Open the provided notebooks and follow along with the analysis.
-
 ## Expected Outcomes
 - A structured retail sales database for analysis.
 - Cleaned and processed sales data.
