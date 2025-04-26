@@ -34,9 +34,6 @@ This project is designed to demonstrate SQL and Python skills and techniques typ
 **Time Series Analysis**
 <img width="997" alt="Screenshot 2025-04-26 at 1 06 41 PM" src="https://github.com/user-attachments/assets/c913f90a-4e50-4abc-8354-8cf767d3fd5c" />
    
-**Cohort Segmentation**
-<img width="416" alt="Screenshot 2025-04-26 at 1 07 06 PM" src="https://github.com/user-attachments/assets/d8277448-7829-41c1-8fc2-361b3fc9afbf" />
-
 **Count Number of Churned and Active Customers**
 <img width="595" alt="Screenshot 2025-04-26 at 1 07 23 PM" src="https://github.com/user-attachments/assets/ca18e570-161a-4c9a-8195-4d9e1632fcfb" />
 
