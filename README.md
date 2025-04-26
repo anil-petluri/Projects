@@ -32,12 +32,15 @@ This project is designed to demonstrate SQL and Python skills and techniques typ
 5. **Business Analysis**: Use SQL, advanced analytics, and Excel to answer specific business questions and derive insights from the sales data.
    
 **Time Series Analysis**
+
 <img width="997" alt="Screenshot 2025-04-26 at 1 06 41 PM" src="https://github.com/user-attachments/assets/c913f90a-4e50-4abc-8354-8cf767d3fd5c" />
    
 **Count Number of Churned and Active Customers**
+
 <img width="595" alt="Screenshot 2025-04-26 at 1 07 23 PM" src="https://github.com/user-attachments/assets/ca18e570-161a-4c9a-8195-4d9e1632fcfb" />
 
 **Top 5 Customers Behavior Around the months**
+
 <img width="614" alt="Screenshot 2025-04-26 at 1 07 39 PM" src="https://github.com/user-attachments/assets/07b4bf3a-b5c1-424c-bd4f-f4d9276b6546" />
 
 ## Expected Outcomes
