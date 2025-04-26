@@ -16,9 +16,41 @@ This project is designed to demonstrate SQL and Python skills and techniques typ
 ## Project Structure
 1. **Set up a Retail Sales Database**: Create a retail sales database with provided sales transactions and responses, inserting them into respective tables.
 2. **Importing the Dataset**: Use the Pandas library to import sales data transactions and sales data responses, merge them into a single dataset, and understand the dataset for further analysis.
+
+   <img width="1139" alt="image" src="https://github.com/user-attachments/assets/c42ad423-421e-43c3-a7a5-60168b893f52" />
+   
 3. **Data Cleaning**: Identify and remove any records with missing or null values.
+   <img width="1127" alt="Screenshot 2025-04-26 at 12 57 48 PM" src="https://github.com/user-attachments/assets/39dd7bbc-e246-4c22-b481-6c620afc7229" />
+
+   <img width="1130" alt="Screenshot 2025-04-26 at 12 57 59 PM" src="https://github.com/user-attachments/assets/178711ab-a1d6-480c-9e52-98d57f0c1186" />
+
+
 4. **Exploratory Data Analysis (EDA)**: Perform basic exploratory data analysis to understand and gain insights from the dataset.
+   
+**To Check if Any Outliers were present in trans_amount and response using BoxPlot**
+<img width="555" alt="Screenshot 2025-04-26 at 12 59 45 PM" src="https://github.com/user-attachments/assets/e1f61c53-d751-494a-a141-1903856e4ca1" />
+
+<img width="559" alt="Screenshot 2025-04-26 at 12 59 54 PM" src="https://github.com/user-attachments/assets/7959f6ed-d7bf-498a-a6b5-e6a807562b24" />
+
+**Fetch the top 5 customersid who having more order counts**
+<img width="655" alt="Screenshot 2025-04-26 at 1 00 27 PM" src="https://github.com/user-attachments/assets/2ee81738-a3e3-4cba-ac20-66d6c6d5ad77" />
+
+**Fetch the top 5 customersid who having more order values**
+<img width="629" alt="Screenshot 2025-04-26 at 1 00 34 PM" src="https://github.com/user-attachments/assets/d2e0ccc5-f12a-414b-ac55-86dadbb32dcc" />
+   
 5. **Business Analysis**: Use SQL, advanced analytics, and Excel to answer specific business questions and derive insights from the sales data.
+   
+**Time Series Analysis**
+<img width="997" alt="Screenshot 2025-04-26 at 1 06 41 PM" src="https://github.com/user-attachments/assets/c913f90a-4e50-4abc-8354-8cf767d3fd5c" />
+   
+**Cohort Segmentation**
+<img width="416" alt="Screenshot 2025-04-26 at 1 07 06 PM" src="https://github.com/user-attachments/assets/d8277448-7829-41c1-8fc2-361b3fc9afbf" />
+
+**Count Number of Churned and Active Customers**
+<img width="595" alt="Screenshot 2025-04-26 at 1 07 23 PM" src="https://github.com/user-attachments/assets/ca18e570-161a-4c9a-8195-4d9e1632fcfb" />
+
+**Top 5 Customers Behavior Around the months**
+<img width="614" alt="Screenshot 2025-04-26 at 1 07 39 PM" src="https://github.com/user-attachments/assets/07b4bf3a-b5c1-424c-bd4f-f4d9276b6546" />
 
 ## Expected Outcomes
 - A structured retail sales database for analysis.
